@@ -1,0 +1,12 @@
+
+.search-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.search-input {
+  max-width: 600px;
+  width: 100%;
+}
